@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SakshiFolklore
+- 👋 Hi, I’m @SakshiRawat13
 - 👀 I’m interested in STEM
 - 🌱 I’m currently learning DSA and web development 
-- 📫 How to reach me @SakshiFolklore on twitter
+
 
 <!---
 SakshiFolklore/SakshiFolklore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
